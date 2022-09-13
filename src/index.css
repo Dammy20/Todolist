@@ -1,0 +1,133 @@
+
+.inputcheck{
+ margin-top: -1px;
+  
+}
+
+
+body{
+ 
+  margin: 0;
+  padding: 0;
+  color: white;
+  background-image: url(../image/todo.jpg);
+  background-size: 100% 45vh;
+ 
+  background-color: black;
+ background-repeat: no-repeat;
+}
+.inputt{
+  /* width: 50%; */
+  height: 40px;
+  background-color: #25273c;
+  border: none;
+   outline: none;
+   color: white;
+
+}
+
+.inptt{
+  width: 100%;
+  background-color: #25273c;
+  border: none;
+  outline: none;
+  color: white;
+}
+.inputtt{
+  /* width:50.1%; */
+  height: 40px;
+  background-color: #25273c;
+  border: none;
+   outline: none;
+   color: white;
+  
+}
+
+.div4{
+  display: flex;
+  width: 100%;
+ 
+  
+  
+}
+.navinput{
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+ 
+}
+.mainshow{
+ 
+  width: 40%;
+  min-width: 50%;
+  margin-top: 100px;
+  margin-left: 350px;
+ 
+  
+  border-radius: 10px;
+
+}
+.btnn{
+  margin-top: -2px;
+}
+.todoh{
+  color: white;
+ 
+}
+.addin{
+  background-color: #4537BD;
+  border: none;
+  width: 20%;
+  height: 6.5vh;
+  border-radius: 2px;
+}
+.nav1{
+  padding-top: 20px;
+  display: flex;
+  gap: 35px;
+ 
+
+  
+ 
+  }
+  span{
+   
+    font-size: 90%;
+    
+  }
+  
+  .btn3{
+    margin-top: -2px;
+    
+  }
+  .btn6{
+    background-color: #4537BD;
+    border: none;
+    border-radius: 2px;
+
+  }
+  .btn2{
+    background-color: #4537BD;
+    border: none;
+    border-radius: 2px;
+  }
+.div1{
+  
+background-color: #25273c;
+margin-top: 10px;
+
+
+
+
+
+
+}
+.hr{
+  border: 0.5px solid grey;
+}
+.checked{
+  text-decoration: line-through;
+}
+/* .not-check{
+  text-decoration: none;
+} */
